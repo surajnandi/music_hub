@@ -1,0 +1,14 @@
+{
+  "name": "music-hub",
+  "version": "1.0.0",
+  "description": "This is Music Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Nandi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
